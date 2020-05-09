@@ -1,5 +1,7 @@
 # Stock_Predictor
 
+This is the link to the GitHub link - https://github.com/gobihan/Stock_Predictor.git
+
 This is the web application where StockMatic's machine learning models are maintained and hosted.
 
 In views.py, are all the methods that are used to train the machine learning models and to make recommendations and predicitions for the application to display. There is an API for the iOS application to check whether a stock is supported by the yahoo finance API, so can get the historical data for it.
