@@ -50,7 +50,7 @@ msgpack==1.0.0
 multitasking==0.0.9
 numpy==1.18.2
 pandas==1.0.3
-paramiko==2.7.1
+paramiko==2.10.1
 pathspec==0.5.9
 protobuf==3.11.3
 psycopg2==2.8.5
